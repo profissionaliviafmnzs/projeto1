@@ -1,0 +1,250 @@
+.cor1{color:  rgb(255,255,255);
+}
+.cor2{color: rgb(79,107,111) ;
+}
+.cor3{color:rgb(91,225,234);
+}
+.cor4{color:black
+}
+.fund{text-shadow: 0 0 0.2em rgb(0, 0, 0), 0 0 0.2em #87F, 0 0 0.2em rgb(79,107,111);
+}
+.center{ text-align: center;
+}
+.font {font-family: "Audiowide", sans-serif ;
+}
+
+.fun{ background-image: url("mm.gif") ;
+}
+.funci{background-color:rgb(79,107,111) ;
+}
+*{margin:0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.bord2{ border:  rgb(91,225,234); border-style: dashed;
+  margin: 6%;
+  position: absolute;
+  top: 7;
+  right: 4%;
+  width: 80%; 
+  height: 45%;;
+}
+.lugar{ margin: 6%;
+  position: absolute;
+  top: 2;
+  right: 4%;
+  width: 80%; 
+  height: 45%;;
+}
+
+.lugar1{ margin: 6%;
+  position: absolute;
+  top: 25%;
+  right: 4%;
+  width: 80%; 
+  height: 45%;;
+}
+#example1 {
+    padding: 40px ;
+    background: url(mm.gif);
+    background-repeat: no-repeat;
+    background-size: 1700px 350px;
+    
+}
+#example2 {
+  padding: 40px ;
+  background: url(mm.gif);
+  background-repeat: no-repeat;
+  background-size: 1700px 350px;}
+
+div.polaroid {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+div.polaroid1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+div.container {
+  padding: 10px;
+}
+a:link, a:visited {
+    background-color:rgb(79,107,111);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(79,107,111);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+} 
+a:hover, a:active {
+    background-color: rgb(91,225,234);
+    color: white;
+}
+ div.mar {
+  margin: 10%;
+  position: absolute;
+  top: 215px;
+  right: 794px;
+  width: 350px;
+}
+ div.marg {
+margin: 70px;
+position: absolute;
+top: 280px;
+right: 10px;
+width: 350px;  
+}
+div.margem {
+margin: 10%;
+position: absolute;
+top: 215px;
+right: 369px;
+width: 350px;
+}
+div.margem1 {
+  margin: 0.1%;
+  position: absolute;
+  top: 150%;
+  right: 0%;
+  width: 100%;
+  height: 51%;  
+  }
+  .margem2 {
+    margin: 0.1%;
+    position: absolute;
+    top: 113%;
+    right: 0%;
+    width: 100%;
+    height: 78%;  
+    }
+    .margem3 {
+      margin: 0.1%;
+      position: absolute;
+      top: 60%;
+      right: 5%;
+      width: 90%;
+      height: 35%;  
+      }
+      .margem4 {
+        margin: 0.1%;
+        position: absolute;
+        top: 40%;
+        right: 6%;  
+        }
+        .margem5 {
+          margin: 0.1%;
+          position: absolute;
+          top: 110%;
+          right: 5%;
+          width: 90%;
+          height: 20%;  
+          }
+          .margem6 {
+            margin: 0.1%;
+            position: absolute;
+            top: 145%;
+            right: 5%;
+            width: 90%;
+            height: 25%;  
+            }
+            .margem7 {
+              margin: 0.1%;
+              position: absolute;
+              top: 40%;
+              right: 20%;  
+              }
+.fundo{ background-image: url(mm.gif);
+}
+ul {
+    list-style-type: none;
+    padding: 120;
+    overflow: hidden;
+    background-color: #333;
+}
+  li {
+    float: left;
+    display: inline;
+}
+  li:last-child {
+    border-right: none;
+} 
+  li a {
+    display: block;
+    color: #111;
+    text-align: center;
+    padding: 164px 160px;
+    text-decoration: none;
+    top: 250px;
+    right: 450px;
+    width: 337.2px;
+    height: 36px;
+}  
+  li a:hover:not(.active) {
+background-color: #111;
+}
+.active {
+background-color: #fff;
+}
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 7%;
+  text-align: center;
+  font-family: arial;
+  color: rgb(3, 2, 2);
+  top: 43%;
+  position: absolute; 
+  height:90%;     
+  width: 22%; 
+  right: 2%;
+} 
+.card2{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 7%;
+  text-align: center;
+  font-family: arial;
+  color: rgb(3, 2, 2);
+  top: 43%;
+  position: absolute; 
+  height:90%;     
+  width: 22%; 
+  right: 32.8%;
+} 
+.card3{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 7%;
+  text-align: center;
+  font-family: arial;
+  color: rgb(3, 2, 2);
+  top: 43%;
+  position: absolute; 
+  height:90%;     
+  width: 22%; 
+  right: 63%;
+} 
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: rgb(253, 253, 253);
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  
+} 
+a {
+  text-decoration: none;
+  
+  color: black;
+}
+button:hover, a:hover {
+  opacity: 0.7;
+}
